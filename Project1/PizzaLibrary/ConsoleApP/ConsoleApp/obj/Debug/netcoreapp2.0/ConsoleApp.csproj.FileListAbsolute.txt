@@ -1,0 +1,14 @@
+C:\Users\wram1\Project1\Project1\PizzaLibrary\ConsoleApP\ConsoleApp\bin\Debug\netcoreapp2.0\PizzaLibrary.dll
+C:\Users\wram1\Project1\Project1\PizzaLibrary\ConsoleApP\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\wram1\Project1\Project1\PizzaLibrary\ConsoleApP\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\wram1\Project1\Project1\PizzaLibrary\ConsoleApP\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\wram1\Project1\Project1\PizzaLibrary\ConsoleApP\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\wram1\Project1\Project1\PizzaLibrary\ConsoleApP\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.deps.json
+C:\Users\wram1\Project1\Project1\PizzaLibrary\ConsoleApP\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.json
+C:\Users\wram1\Project1\Project1\PizzaLibrary\ConsoleApP\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\wram1\Project1\Project1\PizzaLibrary\ConsoleApP\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\wram1\Project1\Project1\PizzaLibrary\ConsoleApP\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.pdb
+C:\Users\wram1\Project1\Project1\PizzaLibrary\ConsoleApP\ConsoleApp\bin\Debug\netcoreapp2.0\PizzaLibrary.pdb
+C:\Users\wram1\Project1\Project1\PizzaLibrary\ConsoleApP\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csproj.CopyComplete
+C:\Users\wram1\Project1\Project1\PizzaLibrary\ConsoleApP\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\wram1\Project1\Project1\PizzaLibrary\ConsoleApP\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.pdb

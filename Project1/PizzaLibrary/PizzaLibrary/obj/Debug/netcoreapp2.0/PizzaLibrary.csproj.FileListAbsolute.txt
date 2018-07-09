@@ -1,0 +1,11 @@
+C:\Users\wram1\Project1\Project1\PizzaLibrary\PizzaLibrary\bin\Debug\netcoreapp2.0\PizzaLibrary.deps.json
+C:\Users\wram1\Project1\Project1\PizzaLibrary\PizzaLibrary\bin\Debug\netcoreapp2.0\PizzaLibrary.dll
+C:\Users\wram1\Project1\Project1\PizzaLibrary\PizzaLibrary\obj\Debug\netcoreapp2.0\PizzaLibrary.csprojAssemblyReference.cache
+C:\Users\wram1\Project1\Project1\PizzaLibrary\PizzaLibrary\obj\Debug\netcoreapp2.0\PizzaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\wram1\Project1\Project1\PizzaLibrary\PizzaLibrary\obj\Debug\netcoreapp2.0\PizzaLibrary.AssemblyInfoInputs.cache
+C:\Users\wram1\Project1\Project1\PizzaLibrary\PizzaLibrary\obj\Debug\netcoreapp2.0\PizzaLibrary.AssemblyInfo.cs
+C:\Users\wram1\Project1\Project1\PizzaLibrary\PizzaLibrary\bin\Debug\netcoreapp2.0\PizzaLibrary.runtimeconfig.json
+C:\Users\wram1\Project1\Project1\PizzaLibrary\PizzaLibrary\bin\Debug\netcoreapp2.0\PizzaLibrary.runtimeconfig.dev.json
+C:\Users\wram1\Project1\Project1\PizzaLibrary\PizzaLibrary\bin\Debug\netcoreapp2.0\PizzaLibrary.pdb
+C:\Users\wram1\Project1\Project1\PizzaLibrary\PizzaLibrary\obj\Debug\netcoreapp2.0\PizzaLibrary.dll
+C:\Users\wram1\Project1\Project1\PizzaLibrary\PizzaLibrary\obj\Debug\netcoreapp2.0\PizzaLibrary.pdb
