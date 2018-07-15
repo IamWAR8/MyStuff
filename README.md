@@ -1,2 +1,1 @@
-# MyStuff
-Projects
+--Little projects I've made to try , test and practice new ideas
